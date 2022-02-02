@@ -131,7 +131,7 @@ if(uygulamano == "1"):
 		yon= raw_input ("Ana Menuye Don Yada Cik (y/n)")
 
 		if(yon == "y"):
-			os.system("python frsec.py")
+			os.system("python3 frsec.py")
 
 		elif(yon == "n"):
 			print("Yine Gel :*")
@@ -225,7 +225,7 @@ if(uygulamano == "2"):
 		yon= raw_input ("Ana Menuye Don Yada Cik (y/n)")
 
 		if(yon == "y"):
-			os.system("python frsec.py")
+			os.system("python3 frsec.py")
 
 		elif(yon == "n"):
 			print("Yine Gel :*")
@@ -324,7 +324,7 @@ if(uygulamano == "4"):
 				yon= raw_input ("Ana Menuye Don Yada Cik (y/n)")
 
 				if(yon == "y"):
-					os.system("python frsec.py")
+					os.system("python3 frsec.py")
 
 				elif(yon == "n"):
 					print("Yine Gel :*")
@@ -384,7 +384,7 @@ if(uygulamano == "4"):
 				yon= raw_input ("Ana Menuye Don Yada Cik (y/n)")
 
 				if(yon == "y"):
-					os.system("python frsec.py")
+					os.system("python3 frsec.py")
 
 				elif(yon == "n"):
 					print("Yine Gel :*")
@@ -438,7 +438,7 @@ if(uygulamano == "4"):
 			yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 			if(yon == "y"):
-				os.system("python frsec.py")
+				os.system("python3 frsec.py")
 
 			elif(yon == "n"):
 				print("Yine Gel :*")
@@ -499,7 +499,7 @@ if(uygulamano == "5"):
 		yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 		if(yon == "y"):
-			os.system("python frsec.py")
+			os.system("python3 frsec.py")
 
 		elif(yon == "n"):
 			print("Yine Gel :*")
@@ -539,7 +539,7 @@ if(uygulamano == "6"):
 		yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 		if(yon == "y"):
-			os.system("python frsec.py")
+			os.system("python3 frsec.py")
 
 		elif(yon == "n"):
 			print("Yine Gel :*")
@@ -883,7 +883,7 @@ if(uygulamano == "7"):
 		yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 		if(yon == "y"):
-			os.system("python frsec.py")
+			os.system("python3 frsec.py")
 
 		elif(yon == "n"):
 			print("Yine Gel :*")
@@ -922,7 +922,7 @@ if(uygulamano == "8"):
 		yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 		if(yon == "y"):
-			os.system("python frsec.py")
+			os.system("python3 frsec.py")
 
 		elif(yon == "n"):
 			print("Yine Gel :*")
@@ -966,7 +966,7 @@ if(uygulamano == "9"):
 		yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 		if(yon == "y"):
-			os.system("python frsec.py")
+			os.system("python3 frsec.py")
 
 		elif(yon == "n"):
 			print("Yine Gel :*")
@@ -1031,7 +1031,7 @@ if(uygulamano == "10"):
 			yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 			if(yon == "y"):
-				os.system("python frsec.py")
+				os.system("python3 frsec.py")
 
 			elif(yon == "n"):
 				print("Yine Gel :*")
@@ -1080,7 +1080,7 @@ if(uygulamano == "10"):
 			yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 			if(yon == "y"):
-				os.system("python frsec.py")
+				os.system("python3 frsec.py")
 
 			elif(yon == "n"):
 				print("Yine Gel :*")
@@ -1137,7 +1137,7 @@ if(uygulamano == "10"):
 			yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 			if(yon == "y"):
-				os.system("python frsec.py")
+				os.system("python3 frsec.py")
 
 			elif(yon == "n"):
 				print("Yine Gel :*")
@@ -1151,7 +1151,7 @@ if(uygulamano == "10"):
 		yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 		if(yon == "y"):
-			os.system("python frsec.py")
+			os.system("python3 frsec.py")
 
 		elif(yon == "n"):
 			print("Yine Gel :*")
@@ -1197,7 +1197,7 @@ if(uygulamano == "11"):
 		yon= raw_input("Ana Menuye Don Yada Cik (y/n)")
 
 		if(yon == "y"):
-			os.system("python frsec.py")
+			os.system("python3 frsec.py")
 
 		elif(yon == "n"):
 			print("Yine Gel :*")
