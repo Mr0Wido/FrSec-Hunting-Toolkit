@@ -69,7 +69,6 @@ sleep(2)
 print("[*] Smbclient Gerekli Ayarlar Yapiliyor %")
 sleep(3)
 print("[*] FrSec Bug Bounty Hunting")
-<<<<<<< HEAD
 os.system("clear")
 subprocess.Popen("python3 frsec.py", shell=True).wait()
 
